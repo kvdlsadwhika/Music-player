@@ -1,4 +1,4 @@
-# Music-player
+# Music-player code alpha tasks
 
 Melody Music Player
 
